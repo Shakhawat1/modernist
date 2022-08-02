@@ -87,16 +87,21 @@ color: #fff;
     color: #333333;
     text-align: center;
     margin-top: 20px;
+    transition: 3s;
 }
 
 .p{
    font-size: 21px;
     color: #979797;
     padding: 10px 10px 20px;
+    transition: 3s;
 }
-.c-hover{}
-.c-hover:hover{
+
+.h2:hover{
    color: #fff;
+}
+.p:hover{
+    color: #fff;
 }
 .s-img {
     text-align: center;
